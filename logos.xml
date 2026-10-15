@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+
+  <!-- Canal 1: RPP TV -->
+  <channel id="RPP TV">
+    <display-name>RPP TV</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" />
+  </channel>
+
+  <!-- Canal 2: Exitosa TV -->
+  <channel id="Exitosa TV">
+    <display-name>Exitosa TV</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" />
+  </channel>
+
+  <!-- Canal 3: PBO -->
+  <channel id="PBO">
+    <display-name>PBO</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/e/e7/PBOradio.webp" />
+  </channel>
+
+  <!-- Canal 4: Global TV -->
+  <channel id="Global TV">
+    <display-name>Global TV</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Global_logo_2019.png" />
+  </channel>
+
+  <!-- Canal 5: La Tele -->
+  <channel id="La Tele">
+    <display-name>La Tele</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/f/f6/La_Tele_logo.png" />
+  </channel>
+
+  <!-- Canal 6: L1 -->
+  <channel id="L1">
+    <display-name>L1</display-name>
+    <icon src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/L1-LOGO.svg/1280px-L1-LOGO.svg.png" />
+  </channel>
+
+  <!-- Canal 7: L1 Max -->
+  <channel id="L1 Max">
+    <display-name>L1 Max</display-name>
+    <icon src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/3840px-L1MAX-LOGO.svg.png" />
+  </channel>
+
+  <!-- Canal 8: ESPN Premium -->
+  <channel id="ESPN Premium">
+    <display-name>ESPN Premium</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg" />
+  </channel>
+
+  <!-- Canal 9: Discovery World -->
+  <channel id="Discovery World">
+    <display-name>Discovery World</display-name>
+    <icon src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/3840px-World_Discovery_HD_logo.svg.png" />
+  </channel>
+
+  <!-- Canal 10: Discovery Theater -->
+  <channel id="Discovery Theater">
+    <display-name>Discovery Theater</display-name>
+    <icon src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/3840px-2015_Discovery_theater_HD_logo.svg.png" />
+  </channel>
+
+  <!-- Canal 11: Love Nature -->
+  <channel id="Love Nature">
+    <display-name>Love Nature</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Love_Nature_logo_%282025%29.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" />
+  </channel>
+
+  <!-- Canal 12: Discovery Science -->
+  <channel id="Discovery Science">
+    <display-name>Discovery Science</display-name>
+    <icon src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/1280px-Discovery_Science_-_Logo_2012.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" />
+  </channel>
+
+  <!-- Canal 13: Atres Series -->
+  <channel id="Atres Series">
+    <display-name>Atres Series</display-name>
+    <icon src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1280px-Atreseries_2020_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" />
+  </channel>
+
+</tv>
